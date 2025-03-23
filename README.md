@@ -5,14 +5,14 @@
 ```
 cd App
 npm install
-npx prebuild
+npx expo prebuild
 cd ios
 pod install
 cd ..
 npx expo run:ios
 ```
 
-## On a Windows
+## On a Windows(Not Tested Yet)
 
 ```
 cd App
