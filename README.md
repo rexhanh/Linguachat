@@ -12,7 +12,7 @@ cd ..
 npx expo run:ios
 ```
 
-## On a Windows(Not Tested Yet)
+## On a Windows(Need Android Studio)
 
 ```
 cd App
